@@ -1,7 +1,10 @@
-# Anti-Duplicator
+# Поиск дублирующих файлов
 
-[TODO. There will be project description]
+Скрипт ищет повторяющиеся файлы в заданной папке и во всех вложенных папках. Сравнение происходить по имени и размеру файла.
 
-# Project Goals
+# Пример запуска
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+
+# Цели проекта
+
+Тренировочный код для проекта - [DEVMAN.org](https://devman.org)
